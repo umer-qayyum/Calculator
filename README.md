@@ -1,2 +1,2 @@
 # Calculator
- calculations-js.surge.sh
+calculations-js.surge.sh
